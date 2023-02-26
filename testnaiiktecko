@@ -1,1 +1,22 @@
-prvnipoznamka
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width-device-widh=<>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>MENU</h1>
+    <h1>ÚVOD</h1>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam cum sequi, cumque soluta sunt autem
+        explicabo.
+        Eligendi, amet suscipit! Amet quas cupiditate voluptatibus dignissimos inventore ad fugiat a quisquam quae.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio nulla maxime ipsa, suscipit placeat eum nostrum
+        quia eveniet eligendi. Rem quia quaerat blanditiis corporis nemo rerum eius, asperiores debitis repudiandae.</p>
+        <!--tady mám vytvořenný úvod-->
+</body>
+
+</html>
