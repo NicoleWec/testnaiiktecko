@@ -17,6 +17,11 @@
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio nulla maxime ipsa, suscipit placeat eum nostrum
         quia eveniet eligendi. Rem quia quaerat blanditiis corporis nemo rerum eius, asperiores debitis repudiandae.</p>
         <!--tady mám vytvořenný úvod-->
+    <h1>GALERIE</h1>
+    <h2>2022</h2>
+    <img src="a931d2e39e3c61c20ad7bff2c588531d.jpg" alt="obrazek zabky" style="height: 200px;width: 200px;"><br>
+    <img src="a931d2e39e3c61c20ad7bff2c588531d.jpg" alt="obrazek zabky" style="height: 200px;width: 200px;"><br>
+    <img src="a931d2e39e3c61c20ad7bff2c588531d.jpg" alt="obrazek zabky" style="height: 200px;width: 200px;"><br>
 </body>
 
 </html>
